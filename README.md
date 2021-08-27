@@ -11,4 +11,5 @@ Technologies/ Frameworks used:
 Go to https://developers.twitter.com portal and get a bearer token and add it to the .env file
 
 $ npm install
+
 $ npm start
